@@ -1,0 +1,85 @@
+,n.n4sch__name,n.skos__prefLabel,n.uri,type(r),m.n4sch__name,m.skos__prefLabel,m.uri,relation_type
+0,UnclosedPizza,Unclosed Pizza,http://www.co-ode.org/ontologies/pizza/pizza.owl#UnclosedPizza,,Pizza,Pizza,http://www.co-ode.org/ontologies/pizza/pizza.owl#Pizza,n4sch__SCO
+1,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,,Pizza,Pizza,http://www.co-ode.org/ontologies/pizza/pizza.owl#Pizza,n4sch__SCO
+2,SundriedTomatoTopping,Sundried Tomato,http://www.co-ode.org/ontologies/pizza/pizza.owl#SundriedTomatoTopping,,TomatoTopping,Tomato,http://www.co-ode.org/ontologies/pizza/pizza.owl#TomatoTopping,n4sch__SCO
+3,SlicedTomatoTopping,Sliced Tomato,http://www.co-ode.org/ontologies/pizza/pizza.owl#SlicedTomatoTopping,,TomatoTopping,Tomato,http://www.co-ode.org/ontologies/pizza/pizza.owl#TomatoTopping,n4sch__SCO
+4,OliveTopping,Olive,http://www.co-ode.org/ontologies/pizza/pizza.owl#OliveTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+5,AsparagusTopping,Asparagus,http://www.co-ode.org/ontologies/pizza/pizza.owl#AsparagusTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+6,CheeseyVegetableTopping,,http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseyVegetableTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+7,MushroomTopping,Mushroom,http://www.co-ode.org/ontologies/pizza/pizza.owl#MushroomTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+8,CaperTopping,Caper,http://www.co-ode.org/ontologies/pizza/pizza.owl#CaperTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+9,OnionTopping,Onion,http://www.co-ode.org/ontologies/pizza/pizza.owl#OnionTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+10,PepperTopping,Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#PepperTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+11,RocketTopping,Rocket,http://www.co-ode.org/ontologies/pizza/pizza.owl#RocketTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+12,GarlicTopping,Garlic,http://www.co-ode.org/ontologies/pizza/pizza.owl#GarlicTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+13,TomatoTopping,Tomato,http://www.co-ode.org/ontologies/pizza/pizza.owl#TomatoTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+14,PetitPoisTopping,Petit Pois,http://www.co-ode.org/ontologies/pizza/pizza.owl#PetitPoisTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+15,LeekTopping,Leek,http://www.co-ode.org/ontologies/pizza/pizza.owl#LeekTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+16,ArtichokeTopping,Artichoke,http://www.co-ode.org/ontologies/pizza/pizza.owl#ArtichokeTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+17,SpinachTopping,Spinach,http://www.co-ode.org/ontologies/pizza/pizza.owl#SpinachTopping,,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,n4sch__SCO
+18,PrawnsTopping,Prawns,http://www.co-ode.org/ontologies/pizza/pizza.owl#PrawnsTopping,,FishTopping,Seafood,http://www.co-ode.org/ontologies/pizza/pizza.owl#FishTopping,n4sch__SCO
+19,AnchoviesTopping,Anchovies,http://www.co-ode.org/ontologies/pizza/pizza.owl#AnchoviesTopping,,FishTopping,Seafood,http://www.co-ode.org/ontologies/pizza/pizza.owl#FishTopping,n4sch__SCO
+20,MixedSeafoodTopping,Mixed Seafood,http://www.co-ode.org/ontologies/pizza/pizza.owl#MixedSeafoodTopping,,FishTopping,Seafood,http://www.co-ode.org/ontologies/pizza/pizza.owl#FishTopping,n4sch__SCO
+21,NutTopping,Nut,http://www.co-ode.org/ontologies/pizza/pizza.owl#NutTopping,,PizzaTopping,Pizza Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping,n4sch__SCO
+22,CheeseTopping,Cheese,http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping,,PizzaTopping,Pizza Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping,n4sch__SCO
+23,SauceTopping,Sauce,http://www.co-ode.org/ontologies/pizza/pizza.owl#SauceTopping,,PizzaTopping,Pizza Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping,n4sch__SCO
+24,FishTopping,Seafood,http://www.co-ode.org/ontologies/pizza/pizza.owl#FishTopping,,PizzaTopping,Pizza Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping,n4sch__SCO
+25,VegetableTopping,Vegetable Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping,,PizzaTopping,Pizza Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping,n4sch__SCO
+26,MeatTopping,Meat,http://www.co-ode.org/ontologies/pizza/pizza.owl#MeatTopping,,PizzaTopping,Pizza Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping,n4sch__SCO
+27,HerbSpiceTopping,Herb Spice,http://www.co-ode.org/ontologies/pizza/pizza.owl#HerbSpiceTopping,,PizzaTopping,Pizza Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping,n4sch__SCO
+28,FruitTopping,Fruit,http://www.co-ode.org/ontologies/pizza/pizza.owl#FruitTopping,,PizzaTopping,Pizza Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping,n4sch__SCO
+29,TobascoPepperSauce,Tobasco Pepper Sauce,http://www.co-ode.org/ontologies/pizza/pizza.owl#TobascoPepperSauce,,SauceTopping,Sauce,http://www.co-ode.org/ontologies/pizza/pizza.owl#SauceTopping,n4sch__SCO
+30,PineKernels,Pine Kernel,http://www.co-ode.org/ontologies/pizza/pizza.owl#PineKernels,,NutTopping,Nut,http://www.co-ode.org/ontologies/pizza/pizza.owl#NutTopping,n4sch__SCO
+31,RosemaryTopping,Rosemary,http://www.co-ode.org/ontologies/pizza/pizza.owl#RosemaryTopping,,HerbSpiceTopping,Herb Spice,http://www.co-ode.org/ontologies/pizza/pizza.owl#HerbSpiceTopping,n4sch__SCO
+32,CajunSpiceTopping,Cajun Spice,http://www.co-ode.org/ontologies/pizza/pizza.owl#CajunSpiceTopping,,HerbSpiceTopping,Herb Spice,http://www.co-ode.org/ontologies/pizza/pizza.owl#HerbSpiceTopping,n4sch__SCO
+33,HotGreenPepperTopping,Hot Green Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#HotGreenPepperTopping,,GreenPepperTopping,Green Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#GreenPepperTopping,n4sch__SCO
+34,PeperonataTopping,Peperonata,http://www.co-ode.org/ontologies/pizza/pizza.owl#PeperonataTopping,,PepperTopping,Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#PepperTopping,n4sch__SCO
+35,SweetPepperTopping,Sweet Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#SweetPepperTopping,,PepperTopping,Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#PepperTopping,n4sch__SCO
+36,GreenPepperTopping,Green Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#GreenPepperTopping,,PepperTopping,Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#PepperTopping,n4sch__SCO
+37,JalapenoPepperTopping,Jalapeno Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#JalapenoPepperTopping,,PepperTopping,Pepper,http://www.co-ode.org/ontologies/pizza/pizza.owl#PepperTopping,n4sch__SCO
+38,HotSpicedBeefTopping,Hot Spiced Beef,http://www.co-ode.org/ontologies/pizza/pizza.owl#HotSpicedBeefTopping,,MeatTopping,Meat,http://www.co-ode.org/ontologies/pizza/pizza.owl#MeatTopping,n4sch__SCO
+39,ChickenTopping,Chicken,http://www.co-ode.org/ontologies/pizza/pizza.owl#ChickenTopping,,MeatTopping,Meat,http://www.co-ode.org/ontologies/pizza/pizza.owl#MeatTopping,n4sch__SCO
+40,PeperoniSausageTopping,Peperoni Sausage,http://www.co-ode.org/ontologies/pizza/pizza.owl#PeperoniSausageTopping,,MeatTopping,Meat,http://www.co-ode.org/ontologies/pizza/pizza.owl#MeatTopping,n4sch__SCO
+41,HamTopping,Ham,http://www.co-ode.org/ontologies/pizza/pizza.owl#HamTopping,,MeatTopping,Meat,http://www.co-ode.org/ontologies/pizza/pizza.owl#MeatTopping,n4sch__SCO
+42,Spiciness,Spiciness,http://www.co-ode.org/ontologies/pizza/pizza.owl#Spiciness,,ValuePartition,Value Partition,http://www.co-ode.org/ontologies/pizza/pizza.owl#ValuePartition,n4sch__SCO
+43,Hot,Hot,http://www.co-ode.org/ontologies/pizza/pizza.owl#Hot,,Spiciness,Spiciness,http://www.co-ode.org/ontologies/pizza/pizza.owl#Spiciness,n4sch__SCO
+44,Medium,Medium,http://www.co-ode.org/ontologies/pizza/pizza.owl#Medium,,Spiciness,Spiciness,http://www.co-ode.org/ontologies/pizza/pizza.owl#Spiciness,n4sch__SCO
+45,Mild,Mild,http://www.co-ode.org/ontologies/pizza/pizza.owl#Mild,,Spiciness,Spiciness,http://www.co-ode.org/ontologies/pizza/pizza.owl#Spiciness,n4sch__SCO
+46,ParmaHamTopping,Parma Ham,http://www.co-ode.org/ontologies/pizza/pizza.owl#ParmaHamTopping,,HamTopping,Ham,http://www.co-ode.org/ontologies/pizza/pizza.owl#HamTopping,n4sch__SCO
+47,Pizza,Pizza,http://www.co-ode.org/ontologies/pizza/pizza.owl#Pizza,,Food,Food,http://www.co-ode.org/ontologies/pizza/pizza.owl#Food,n4sch__SCO
+48,PizzaBase,Pizza Base,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaBase,,Food,Food,http://www.co-ode.org/ontologies/pizza/pizza.owl#Food,n4sch__SCO
+49,PizzaTopping,Pizza Topping,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping,,Food,Food,http://www.co-ode.org/ontologies/pizza/pizza.owl#Food,n4sch__SCO
+50,IceCream,Ice Cream,http://www.co-ode.org/ontologies/pizza/pizza.owl#IceCream,,Food,Food,http://www.co-ode.org/ontologies/pizza/pizza.owl#Food,n4sch__SCO
+51,Food,Food,http://www.co-ode.org/ontologies/pizza/pizza.owl#Food,,DomainConcept,Domain Thing,http://www.co-ode.org/ontologies/pizza/pizza.owl#DomainConcept,n4sch__SCO
+52,DeepPanBase,Deep Pan Base,http://www.co-ode.org/ontologies/pizza/pizza.owl#DeepPanBase,,PizzaBase,Pizza Base,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaBase,n4sch__SCO
+53,ThinAndCrispyBase,Thin And Crispy Base,http://www.co-ode.org/ontologies/pizza/pizza.owl#ThinAndCrispyBase,,PizzaBase,Pizza Base,http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaBase,n4sch__SCO
+54,LaReine,La Reine,http://www.co-ode.org/ontologies/pizza/pizza.owl#LaReine,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+55,FruttiDiMare,Frutti Di Mare,http://www.co-ode.org/ontologies/pizza/pizza.owl#FruttiDiMare,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+56,Rosa,Rosa,http://www.co-ode.org/ontologies/pizza/pizza.owl#Rosa,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+57,QuattroFormaggi,Quattro Formaggi,http://www.co-ode.org/ontologies/pizza/pizza.owl#QuattroFormaggi,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+58,Cajun,Cajun,http://www.co-ode.org/ontologies/pizza/pizza.owl#Cajun,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+59,Capricciosa,Capricciosa,http://www.co-ode.org/ontologies/pizza/pizza.owl#Capricciosa,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+60,Mushroom,Mushroom,http://www.co-ode.org/ontologies/pizza/pizza.owl#Mushroom,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+61,SloppyGiuseppe,Sloppy Giuseppe,http://www.co-ode.org/ontologies/pizza/pizza.owl#SloppyGiuseppe,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+62,Fiorentina,Fiorentina,http://www.co-ode.org/ontologies/pizza/pizza.owl#Fiorentina,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+63,Siciliana,Siciliana,http://www.co-ode.org/ontologies/pizza/pizza.owl#Siciliana,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+64,Giardiniera,Giardiniera,http://www.co-ode.org/ontologies/pizza/pizza.owl#Giardiniera,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+65,AmericanHot,American Hot,http://www.co-ode.org/ontologies/pizza/pizza.owl#AmericanHot,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+66,Caprina,Caprina,http://www.co-ode.org/ontologies/pizza/pizza.owl#Caprina,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+67,Soho,Soho,http://www.co-ode.org/ontologies/pizza/pizza.owl#Soho,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+68,PolloAdAstra,Pollo Ad Astra,http://www.co-ode.org/ontologies/pizza/pizza.owl#PolloAdAstra,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+69,FourSeasons,Four Seasons,http://www.co-ode.org/ontologies/pizza/pizza.owl#FourSeasons,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+70,Napoletana,Napoletana,http://www.co-ode.org/ontologies/pizza/pizza.owl#Napoletana,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+71,American,American,http://www.co-ode.org/ontologies/pizza/pizza.owl#American,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+72,Veneziana,Veneziana,http://www.co-ode.org/ontologies/pizza/pizza.owl#Veneziana,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+73,PrinceCarlo,Prince Carlo,http://www.co-ode.org/ontologies/pizza/pizza.owl#PrinceCarlo,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+74,Margherita,Margherita,http://www.co-ode.org/ontologies/pizza/pizza.owl#Margherita,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+75,Parmense,Parmense,http://www.co-ode.org/ontologies/pizza/pizza.owl#Parmense,,NamedPizza,,http://www.co-ode.org/ontologies/pizza/pizza.owl#NamedPizza,n4sch__SCO
+76,RedOnionTopping,Red Onion,http://www.co-ode.org/ontologies/pizza/pizza.owl#RedOnionTopping,,OnionTopping,Onion,http://www.co-ode.org/ontologies/pizza/pizza.owl#OnionTopping,n4sch__SCO
+77,CheeseyVegetableTopping,,http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseyVegetableTopping,,CheeseTopping,Cheese,http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping,n4sch__SCO
+78,GoatsCheeseTopping,Goats Cheese,http://www.co-ode.org/ontologies/pizza/pizza.owl#GoatsCheeseTopping,,CheeseTopping,Cheese,http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping,n4sch__SCO
+79,ParmesanTopping,Parmezan,http://www.co-ode.org/ontologies/pizza/pizza.owl#ParmesanTopping,,CheeseTopping,Cheese,http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping,n4sch__SCO
+80,FourCheesesTopping,Four Cheeses,http://www.co-ode.org/ontologies/pizza/pizza.owl#FourCheesesTopping,,CheeseTopping,Cheese,http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping,n4sch__SCO
+81,MozzarellaTopping,Mozzarella,http://www.co-ode.org/ontologies/pizza/pizza.owl#MozzarellaTopping,,CheeseTopping,Cheese,http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping,n4sch__SCO
+82,GorgonzolaTopping,Gorgonzola,http://www.co-ode.org/ontologies/pizza/pizza.owl#GorgonzolaTopping,,CheeseTopping,Cheese,http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping,n4sch__SCO
+83,SultanaTopping,Sultana,http://www.co-ode.org/ontologies/pizza/pizza.owl#SultanaTopping,,FruitTopping,Fruit,http://www.co-ode.org/ontologies/pizza/pizza.owl#FruitTopping,n4sch__SCO

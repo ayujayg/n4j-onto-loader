@@ -1,0 +1,6 @@
+,n.n4sch__name,n.n4sch__label,n.uri,type(r2),p.n4sch__name,x.uri,relation_type
+0,American,Americana,http://www.co-ode.org/ontologies/pizza/pizza.owl#American,,hasCountryOfOrigin,http://www.co-ode.org/ontologies/pizza/pizza.owl#America,owl__hasValue
+1,AmericanHot,AmericanaPicante,http://www.co-ode.org/ontologies/pizza/pizza.owl#AmericanHot,,hasCountryOfOrigin,http://www.co-ode.org/ontologies/pizza/pizza.owl#America,owl__hasValue
+2,MozzarellaTopping,MozzarellaTopping,http://www.co-ode.org/ontologies/pizza/pizza.owl#MozzarellaTopping,,hasCountryOfOrigin,http://www.co-ode.org/ontologies/pizza/pizza.owl#Italy,owl__hasValue
+3,Napoletana,Napoletana,http://www.co-ode.org/ontologies/pizza/pizza.owl#Napoletana,,hasCountryOfOrigin,http://www.co-ode.org/ontologies/pizza/pizza.owl#Italy,owl__hasValue
+4,Veneziana,Veneziana,http://www.co-ode.org/ontologies/pizza/pizza.owl#Veneziana,,hasCountryOfOrigin,http://www.co-ode.org/ontologies/pizza/pizza.owl#Italy,owl__hasValue
